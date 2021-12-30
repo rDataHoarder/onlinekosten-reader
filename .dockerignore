@@ -1,0 +1,6 @@
+dist
+node_modules
+.gitignore
+.prettierrc.js
+onlinekosten.sqlite3
+README.md
